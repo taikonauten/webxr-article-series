@@ -6,7 +6,11 @@
 
 # Introduction to WebXR using Babylon.js
 
-This series is aimed at experienced web developers who want to get started with WebXR. The series is based on the Babylon.js framework and is intended to provide a quick and easy introduction to the topic. The series is divided into [n] parts. Each part builds up on the previous one and introduces new concepts and techniques. The series is based on the [Babylon.js WebXR Tutorial](https://doc.babylonjs.com/divingDeeper/webXR) and is intended to provide a more detailed and in-depth introduction to the topic.
+This series is aimed at experienced web developers who want to get started with WebXR. The series is based on the Babylon.js framework and is intended to provide a quick and easy introduction to the topic. The series is divided into 9 parts. Each part builds up on the previous one and introduces new concepts and techniques. The series is based on the [Babylon.js WebXR Tutorial](https://doc.babylonjs.com/divingDeeper/webXR) and is intended to provide a more detailed and in-depth introduction to the topic.
+
+
+> This repository is published alongside an article series on
+[Dev.to (WebXR with Babylon.js Series)](https://dev.to/ibryan/series/26020)
 
 ## Technology Stack
 
@@ -28,7 +32,7 @@ This series is aimed at experienced web developers who want to get started with 
 6. Animating a Mesh
 7. Anchors
 8. Models & Assets
-9. Asset Handling and Animation
+9. Asset Handling & Animation
 
 ## Getting Started
 
